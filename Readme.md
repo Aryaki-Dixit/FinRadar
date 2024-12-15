@@ -21,21 +21,23 @@ Core Technologies
 
 Design Diagrams
 
-• High Level Design: System Architecture Diagram
+High Level Design: System Architecture Diagram
+
 ![System Architecture](images/system.png)
 
-• Low Level Design: 
-    o Use Case Diagram
-    ![Use Case Diagram](images/usecase.png)
+Low Level Design: 
+Use Case Diagram
+    
+![Use Case Diagram](images/usecase.png)
 
-    o Class Diagram
-    ![Class Diagram](images/class.png)
+Class Diagram
+![Class Diagram](images/class.png)
 
-    o Activity Diagram
-    ![Activity Diagram](images/activity.png)
+Activity Diagram
+![Activity Diagram](images/activity.png)
 
-    o Sequence Diagram
-    ![Sequence Diagram](images/sequence.png)
+Sequence Diagram
+![Sequence Diagram](images/sequence.png)
 
 Modules
 1. Document Loading
